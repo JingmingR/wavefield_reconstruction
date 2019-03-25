@@ -1,5 +1,4 @@
 import m8r
-import re
 
 def loadrsf(file_name):
     mat = m8r.Input('%s.rsf' % file_name)
