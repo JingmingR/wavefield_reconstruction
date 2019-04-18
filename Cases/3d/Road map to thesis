@@ -1,0 +1,14 @@
+Documenting the 3d Cases:
+
+1/3 decimation:
+  without derivatives
+  without corss derivatives
+  with all derivaitves
+
+1/4 decimation:
+  regular sampling(?)
+  irrgular sampling
+  without corss derivatives
+  with all derivatives
+  with masks 
+  without masks
